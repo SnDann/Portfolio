@@ -10,7 +10,7 @@ Este é o meu portfólio profissional como Full Stack Developer em transição d
 
 ## Preview
 
-- URL: https://sndann.github.io/portfolio/
+- URL: https://sndann.github.io/Portfolio/
 
 ## Stack
 
@@ -41,12 +41,13 @@ O site é estático e não requer servidor ou dependências adicionais.
 
 ## Publicação (GitHub Pages)
 
-1. Faça push do repositório para o GitHub em `main`.
+1. Faça push do repositório para o GitHub na branch `main`.
 2. No GitHub, acesse `Settings` → `Pages`.
 3. Em `Build and deployment`, selecione `Deploy from a branch`.
-4. Defina `Branch`: `main` e `Folder`: `/root`.
-5. Aguarde alguns minutos até o site publicar em `https://<usuario>.github.io/<repo>/`.
+4. Em `Branch`, escolha `main` e em `Folder`, selecione `/root`.
+5. Aguarde alguns minutos até o site publicar em `https://sndann.github.io/Portfolio/`.
 6. Atualize `og:url` em `index.html` com a URL publicada e, opcionalmente, defina uma imagem real em `og:image`/`twitter:image` (1200×630).
+
 
 ## Projetos em Destaque
 
