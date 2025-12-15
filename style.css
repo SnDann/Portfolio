@@ -99,6 +99,15 @@ main {
   font-size: 1rem;
 }
 
+.hero-banner {
+  background-image: url('/img/og-image.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 60vh; /* ou a altura que preferir */
+}
+
+
 /* Seções */
 section {
   margin-top: 3rem;
